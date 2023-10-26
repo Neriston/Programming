@@ -1,3 +1,6 @@
+Link to the Gitlab:
+https://gitlab.com/ibr11/cpp_psami_base/-/wikis/home
+
 Предполагаемый пайплайн проверки/сборки решений:
 
 Предварительно:
