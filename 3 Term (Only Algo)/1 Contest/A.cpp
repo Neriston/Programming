@@ -24,7 +24,6 @@ std::istream& operator>>(std::istream& is, std::vector<std::pair<int64_t, int64_
   return is;
 }
 
-
 int main() {
   std::ios::sync_with_stdio(false);
   std::cin.tie(nullptr);
