@@ -1,0 +1,1 @@
+/usr/bin/c++  -fsanitize=address,undefined -Wall -Wextra -pedantic -Werror -Wno-self-assign-overloaded -Wno-missing-braces CMakeFiles/ct_prime_public_test.dir/ct_prime_public_test.cpp.o -o ../ct_prime_public_test 

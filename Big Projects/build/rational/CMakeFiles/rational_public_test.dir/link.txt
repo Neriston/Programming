@@ -1,0 +1,1 @@
+/usr/bin/c++  -fsanitize=address,undefined -Wall -Wextra -pedantic -Werror -Wno-self-assign-overloaded -Wno-missing-braces CMakeFiles/rational_public_test.dir/rational.cpp.o CMakeFiles/rational_public_test.dir/rational_public_test.cpp.o -o ../rational_public_test 

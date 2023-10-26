@@ -1,0 +1,252 @@
+[
+{
+  "directory": "/home/sergey_kornienko/Programming/Big Projects/build/any",
+  "command": "/usr/bin/c++  -I\"/home/sergey_kornienko/Programming/Big Projects/.\"  -fsanitize=address,undefined -Wall -Wextra -pedantic -Werror -Wno-self-assign-overloaded -Wno-missing-braces -o CMakeFiles/any_public_test.dir/any_public_test.cpp.o -c \"/home/sergey_kornienko/Programming/Big Projects/any/any_public_test.cpp\"",
+  "file": "/home/sergey_kornienko/Programming/Big Projects/any/any_public_test.cpp"
+},
+{
+  "directory": "/home/sergey_kornienko/Programming/Big Projects/build/array",
+  "command": "/usr/bin/c++  -I\"/home/sergey_kornienko/Programming/Big Projects/.\"  -fsanitize=address,undefined -Wall -Wextra -pedantic -Werror -Wno-self-assign-overloaded -Wno-missing-braces -o CMakeFiles/array_public_test.dir/array_public_test.cpp.o -c \"/home/sergey_kornienko/Programming/Big Projects/array/array_public_test.cpp\"",
+  "file": "/home/sergey_kornienko/Programming/Big Projects/array/array_public_test.cpp"
+},
+{
+  "directory": "/home/sergey_kornienko/Programming/Big Projects/build/array_traits",
+  "command": "/usr/bin/c++  -I\"/home/sergey_kornienko/Programming/Big Projects/.\"  -fsanitize=address,undefined -Wall -Wextra -pedantic -Werror -Wno-self-assign-overloaded -Wno-missing-braces -o CMakeFiles/array_traits_public_test.dir/array_traits_public_test.cpp.o -c \"/home/sergey_kornienko/Programming/Big Projects/array_traits/array_traits_public_test.cpp\"",
+  "file": "/home/sergey_kornienko/Programming/Big Projects/array_traits/array_traits_public_test.cpp"
+},
+{
+  "directory": "/home/sergey_kornienko/Programming/Big Projects/build/calculator/tokenize",
+  "command": "/usr/bin/c++  -I\"/home/sergey_kornienko/Programming/Big Projects/.\"  -fsanitize=address,undefined -Wall -Wextra -pedantic -Werror -Wno-self-assign-overloaded -Wno-missing-braces -o CMakeFiles/tokenize_public_test.dir/tokenize.cpp.o -c \"/home/sergey_kornienko/Programming/Big Projects/calculator/tokenize/tokenize.cpp\"",
+  "file": "/home/sergey_kornienko/Programming/Big Projects/calculator/tokenize/tokenize.cpp"
+},
+{
+  "directory": "/home/sergey_kornienko/Programming/Big Projects/build/calculator/tokenize",
+  "command": "/usr/bin/c++  -I\"/home/sergey_kornienko/Programming/Big Projects/.\"  -fsanitize=address,undefined -Wall -Wextra -pedantic -Werror -Wno-self-assign-overloaded -Wno-missing-braces -o CMakeFiles/tokenize_public_test.dir/tokenize_public_test.cpp.o -c \"/home/sergey_kornienko/Programming/Big Projects/calculator/tokenize/tokenize_public_test.cpp\"",
+  "file": "/home/sergey_kornienko/Programming/Big Projects/calculator/tokenize/tokenize_public_test.cpp"
+},
+{
+  "directory": "/home/sergey_kornienko/Programming/Big Projects/build/calculator/polish_notation",
+  "command": "/usr/bin/c++  -I\"/home/sergey_kornienko/Programming/Big Projects/.\"  -fsanitize=address,undefined -Wall -Wextra -pedantic -Werror -Wno-self-assign-overloaded -Wno-missing-braces -o CMakeFiles/polish_notation_public_test.dir/polish_notation.cpp.o -c \"/home/sergey_kornienko/Programming/Big Projects/calculator/polish_notation/polish_notation.cpp\"",
+  "file": "/home/sergey_kornienko/Programming/Big Projects/calculator/polish_notation/polish_notation.cpp"
+},
+{
+  "directory": "/home/sergey_kornienko/Programming/Big Projects/build/calculator/polish_notation",
+  "command": "/usr/bin/c++  -I\"/home/sergey_kornienko/Programming/Big Projects/.\"  -fsanitize=address,undefined -Wall -Wextra -pedantic -Werror -Wno-self-assign-overloaded -Wno-missing-braces -o CMakeFiles/polish_notation_public_test.dir/polish_notation_public_test.cpp.o -c \"/home/sergey_kornienko/Programming/Big Projects/calculator/polish_notation/polish_notation_public_test.cpp\"",
+  "file": "/home/sergey_kornienko/Programming/Big Projects/calculator/polish_notation/polish_notation_public_test.cpp"
+},
+{
+  "directory": "/home/sergey_kornienko/Programming/Big Projects/build/calculator/polish_notation",
+  "command": "/usr/bin/c++  -I\"/home/sergey_kornienko/Programming/Big Projects/.\"  -fsanitize=address,undefined -Wall -Wextra -pedantic -Werror -Wno-self-assign-overloaded -Wno-missing-braces -o CMakeFiles/polish_notation_public_test.dir/__/tokenize/tokenize.cpp.o -c \"/home/sergey_kornienko/Programming/Big Projects/calculator/tokenize/tokenize.cpp\"",
+  "file": "/home/sergey_kornienko/Programming/Big Projects/calculator/tokenize/tokenize.cpp"
+},
+{
+  "directory": "/home/sergey_kornienko/Programming/Big Projects/build/calculator/calculator",
+  "command": "/usr/bin/c++  -I\"/home/sergey_kornienko/Programming/Big Projects/.\"  -fsanitize=address,undefined -Wall -Wextra -pedantic -Werror -Wno-self-assign-overloaded -Wno-missing-braces -o CMakeFiles/calculator_public_test.dir/__/tokenize/tokenize.cpp.o -c \"/home/sergey_kornienko/Programming/Big Projects/calculator/tokenize/tokenize.cpp\"",
+  "file": "/home/sergey_kornienko/Programming/Big Projects/calculator/tokenize/tokenize.cpp"
+},
+{
+  "directory": "/home/sergey_kornienko/Programming/Big Projects/build/calculator/calculator",
+  "command": "/usr/bin/c++  -I\"/home/sergey_kornienko/Programming/Big Projects/.\"  -fsanitize=address,undefined -Wall -Wextra -pedantic -Werror -Wno-self-assign-overloaded -Wno-missing-braces -o CMakeFiles/calculator_public_test.dir/calculator.cpp.o -c \"/home/sergey_kornienko/Programming/Big Projects/calculator/calculator/calculator.cpp\"",
+  "file": "/home/sergey_kornienko/Programming/Big Projects/calculator/calculator/calculator.cpp"
+},
+{
+  "directory": "/home/sergey_kornienko/Programming/Big Projects/build/calculator/calculator",
+  "command": "/usr/bin/c++  -I\"/home/sergey_kornienko/Programming/Big Projects/.\"  -fsanitize=address,undefined -Wall -Wextra -pedantic -Werror -Wno-self-assign-overloaded -Wno-missing-braces -o CMakeFiles/calculator_public_test.dir/parser.cpp.o -c \"/home/sergey_kornienko/Programming/Big Projects/calculator/calculator/parser.cpp\"",
+  "file": "/home/sergey_kornienko/Programming/Big Projects/calculator/calculator/parser.cpp"
+},
+{
+  "directory": "/home/sergey_kornienko/Programming/Big Projects/build/calculator/calculator",
+  "command": "/usr/bin/c++  -I\"/home/sergey_kornienko/Programming/Big Projects/.\"  -fsanitize=address,undefined -Wall -Wextra -pedantic -Werror -Wno-self-assign-overloaded -Wno-missing-braces -o CMakeFiles/calculator_public_test.dir/calculator_public_test.cpp.o -c \"/home/sergey_kornienko/Programming/Big Projects/calculator/calculator/calculator_public_test.cpp\"",
+  "file": "/home/sergey_kornienko/Programming/Big Projects/calculator/calculator/calculator_public_test.cpp"
+},
+{
+  "directory": "/home/sergey_kornienko/Programming/Big Projects/build/ct_prime",
+  "command": "/usr/bin/c++  -I\"/home/sergey_kornienko/Programming/Big Projects/.\"  -fsanitize=address,undefined -Wall -Wextra -pedantic -Werror -Wno-self-assign-overloaded -Wno-missing-braces -o CMakeFiles/ct_prime_public_test.dir/ct_prime_public_test.cpp.o -c \"/home/sergey_kornienko/Programming/Big Projects/ct_prime/ct_prime_public_test.cpp\"",
+  "file": "/home/sergey_kornienko/Programming/Big Projects/ct_prime/ct_prime_public_test.cpp"
+},
+{
+  "directory": "/home/sergey_kornienko/Programming/Big Projects/build/frozen_set",
+  "command": "/usr/bin/c++  -I\"/home/sergey_kornienko/Programming/Big Projects/.\"  -fsanitize=address,undefined -Wall -Wextra -pedantic -Werror -Wno-self-assign-overloaded -Wno-missing-braces -o CMakeFiles/frozen_set_public_test.dir/frozen_set_public_test.cpp.o -c \"/home/sergey_kornienko/Programming/Big Projects/frozen_set/frozen_set_public_test.cpp\"",
+  "file": "/home/sergey_kornienko/Programming/Big Projects/frozen_set/frozen_set_public_test.cpp"
+},
+{
+  "directory": "/home/sergey_kornienko/Programming/Big Projects/build/gcd",
+  "command": "/usr/bin/c++  -I\"/home/sergey_kornienko/Programming/Big Projects/.\"  -fsanitize=address,undefined -Wall -Wextra -pedantic -Werror -Wno-self-assign-overloaded -Wno-missing-braces -o CMakeFiles/gcd_public_test.dir/gcd_public_test.cpp.o -c \"/home/sergey_kornienko/Programming/Big Projects/gcd/gcd_public_test.cpp\"",
+  "file": "/home/sergey_kornienko/Programming/Big Projects/gcd/gcd_public_test.cpp"
+},
+{
+  "directory": "/home/sergey_kornienko/Programming/Big Projects/build/geometry",
+  "command": "/usr/bin/c++  -I\"/home/sergey_kornienko/Programming/Big Projects/.\"  -fsanitize=address,undefined -Wall -Wextra -pedantic -Werror -Wno-self-assign-overloaded -Wno-missing-braces -o CMakeFiles/geometry_public_test.dir/geometry_main.cpp.o -c \"/home/sergey_kornienko/Programming/Big Projects/geometry/geometry_main.cpp\"",
+  "file": "/home/sergey_kornienko/Programming/Big Projects/geometry/geometry_main.cpp"
+},
+{
+  "directory": "/home/sergey_kornienko/Programming/Big Projects/build/geometry",
+  "command": "/usr/bin/c++  -I\"/home/sergey_kornienko/Programming/Big Projects/.\"  -fsanitize=address,undefined -Wall -Wextra -pedantic -Werror -Wno-self-assign-overloaded -Wno-missing-braces -o CMakeFiles/geometry_public_test.dir/src/circle.cpp.o -c \"/home/sergey_kornienko/Programming/Big Projects/geometry/src/circle.cpp\"",
+  "file": "/home/sergey_kornienko/Programming/Big Projects/geometry/src/circle.cpp"
+},
+{
+  "directory": "/home/sergey_kornienko/Programming/Big Projects/build/geometry",
+  "command": "/usr/bin/c++  -I\"/home/sergey_kornienko/Programming/Big Projects/.\"  -fsanitize=address,undefined -Wall -Wextra -pedantic -Werror -Wno-self-assign-overloaded -Wno-missing-braces -o CMakeFiles/geometry_public_test.dir/src/ishape.cpp.o -c \"/home/sergey_kornienko/Programming/Big Projects/geometry/src/ishape.cpp\"",
+  "file": "/home/sergey_kornienko/Programming/Big Projects/geometry/src/ishape.cpp"
+},
+{
+  "directory": "/home/sergey_kornienko/Programming/Big Projects/build/geometry",
+  "command": "/usr/bin/c++  -I\"/home/sergey_kornienko/Programming/Big Projects/.\"  -fsanitize=address,undefined -Wall -Wextra -pedantic -Werror -Wno-self-assign-overloaded -Wno-missing-braces -o CMakeFiles/geometry_public_test.dir/src/line.cpp.o -c \"/home/sergey_kornienko/Programming/Big Projects/geometry/src/line.cpp\"",
+  "file": "/home/sergey_kornienko/Programming/Big Projects/geometry/src/line.cpp"
+},
+{
+  "directory": "/home/sergey_kornienko/Programming/Big Projects/build/geometry",
+  "command": "/usr/bin/c++  -I\"/home/sergey_kornienko/Programming/Big Projects/.\"  -fsanitize=address,undefined -Wall -Wextra -pedantic -Werror -Wno-self-assign-overloaded -Wno-missing-braces -o CMakeFiles/geometry_public_test.dir/src/point.cpp.o -c \"/home/sergey_kornienko/Programming/Big Projects/geometry/src/point.cpp\"",
+  "file": "/home/sergey_kornienko/Programming/Big Projects/geometry/src/point.cpp"
+},
+{
+  "directory": "/home/sergey_kornienko/Programming/Big Projects/build/geometry",
+  "command": "/usr/bin/c++  -I\"/home/sergey_kornienko/Programming/Big Projects/.\"  -fsanitize=address,undefined -Wall -Wextra -pedantic -Werror -Wno-self-assign-overloaded -Wno-missing-braces -o CMakeFiles/geometry_public_test.dir/src/polygon.cpp.o -c \"/home/sergey_kornienko/Programming/Big Projects/geometry/src/polygon.cpp\"",
+  "file": "/home/sergey_kornienko/Programming/Big Projects/geometry/src/polygon.cpp"
+},
+{
+  "directory": "/home/sergey_kornienko/Programming/Big Projects/build/geometry",
+  "command": "/usr/bin/c++  -I\"/home/sergey_kornienko/Programming/Big Projects/.\"  -fsanitize=address,undefined -Wall -Wextra -pedantic -Werror -Wno-self-assign-overloaded -Wno-missing-braces -o CMakeFiles/geometry_public_test.dir/src/ray.cpp.o -c \"/home/sergey_kornienko/Programming/Big Projects/geometry/src/ray.cpp\"",
+  "file": "/home/sergey_kornienko/Programming/Big Projects/geometry/src/ray.cpp"
+},
+{
+  "directory": "/home/sergey_kornienko/Programming/Big Projects/build/geometry",
+  "command": "/usr/bin/c++  -I\"/home/sergey_kornienko/Programming/Big Projects/.\"  -fsanitize=address,undefined -Wall -Wextra -pedantic -Werror -Wno-self-assign-overloaded -Wno-missing-braces -o CMakeFiles/geometry_public_test.dir/src/segment.cpp.o -c \"/home/sergey_kornienko/Programming/Big Projects/geometry/src/segment.cpp\"",
+  "file": "/home/sergey_kornienko/Programming/Big Projects/geometry/src/segment.cpp"
+},
+{
+  "directory": "/home/sergey_kornienko/Programming/Big Projects/build/geometry",
+  "command": "/usr/bin/c++  -I\"/home/sergey_kornienko/Programming/Big Projects/.\"  -fsanitize=address,undefined -Wall -Wextra -pedantic -Werror -Wno-self-assign-overloaded -Wno-missing-braces -o CMakeFiles/geometry_public_test.dir/src/vector.cpp.o -c \"/home/sergey_kornienko/Programming/Big Projects/geometry/src/vector.cpp\"",
+  "file": "/home/sergey_kornienko/Programming/Big Projects/geometry/src/vector.cpp"
+},
+{
+  "directory": "/home/sergey_kornienko/Programming/Big Projects/build/inserter",
+  "command": "/usr/bin/c++  -I\"/home/sergey_kornienko/Programming/Big Projects/.\"  -fsanitize=address,undefined -Wall -Wextra -pedantic -Werror -Wno-self-assign-overloaded -Wno-missing-braces -o CMakeFiles/inserter_public_test.dir/inserter_public_test.cpp.o -c \"/home/sergey_kornienko/Programming/Big Projects/inserter/inserter_public_test.cpp\"",
+  "file": "/home/sergey_kornienko/Programming/Big Projects/inserter/inserter_public_test.cpp"
+},
+{
+  "directory": "/home/sergey_kornienko/Programming/Big Projects/build/iterator_traits",
+  "command": "/usr/bin/c++  -I\"/home/sergey_kornienko/Programming/Big Projects/.\"  -fsanitize=address,undefined -Wall -Wextra -pedantic -Werror -Wno-self-assign-overloaded -Wno-missing-braces -o CMakeFiles/iterator_traits_public_test.dir/iterator_traits_public_test.cpp.o -c \"/home/sergey_kornienko/Programming/Big Projects/iterator_traits/iterator_traits_public_test.cpp\"",
+  "file": "/home/sergey_kornienko/Programming/Big Projects/iterator_traits/iterator_traits_public_test.cpp"
+},
+{
+  "directory": "/home/sergey_kornienko/Programming/Big Projects/build/iterops",
+  "command": "/usr/bin/c++  -I\"/home/sergey_kornienko/Programming/Big Projects/.\"  -fsanitize=address,undefined -Wall -Wextra -pedantic -Werror -Wno-self-assign-overloaded -Wno-missing-braces -o CMakeFiles/iterops_public_test.dir/iterops_public_test.cpp.o -c \"/home/sergey_kornienko/Programming/Big Projects/iterops/iterops_public_test.cpp\"",
+  "file": "/home/sergey_kornienko/Programming/Big Projects/iterops/iterops_public_test.cpp"
+},
+{
+  "directory": "/home/sergey_kornienko/Programming/Big Projects/build/itertools/enumerate",
+  "command": "/usr/bin/c++  -I\"/home/sergey_kornienko/Programming/Big Projects/.\"  -fsanitize=address,undefined -Wall -Wextra -pedantic -Werror -Wno-self-assign-overloaded -Wno-missing-braces -o CMakeFiles/enumerate_public_test.dir/enumerate_public_test.cpp.o -c \"/home/sergey_kornienko/Programming/Big Projects/itertools/enumerate/enumerate_public_test.cpp\"",
+  "file": "/home/sergey_kornienko/Programming/Big Projects/itertools/enumerate/enumerate_public_test.cpp"
+},
+{
+  "directory": "/home/sergey_kornienko/Programming/Big Projects/build/itertools/range",
+  "command": "/usr/bin/c++  -I\"/home/sergey_kornienko/Programming/Big Projects/.\"  -fsanitize=address,undefined -Wall -Wextra -pedantic -Werror -Wno-self-assign-overloaded -Wno-missing-braces -o CMakeFiles/range_public_test.dir/range_public_test.cpp.o -c \"/home/sergey_kornienko/Programming/Big Projects/itertools/range/range_public_test.cpp\"",
+  "file": "/home/sergey_kornienko/Programming/Big Projects/itertools/range/range_public_test.cpp"
+},
+{
+  "directory": "/home/sergey_kornienko/Programming/Big Projects/build/itertools/reversed",
+  "command": "/usr/bin/c++  -I\"/home/sergey_kornienko/Programming/Big Projects/.\"  -fsanitize=address,undefined -Wall -Wextra -pedantic -Werror -Wno-self-assign-overloaded -Wno-missing-braces -o CMakeFiles/reversed_public_test.dir/reversed_public_test.cpp.o -c \"/home/sergey_kornienko/Programming/Big Projects/itertools/reversed/reversed_public_test.cpp\"",
+  "file": "/home/sergey_kornienko/Programming/Big Projects/itertools/reversed/reversed_public_test.cpp"
+},
+{
+  "directory": "/home/sergey_kornienko/Programming/Big Projects/build/itertools/zip",
+  "command": "/usr/bin/c++  -I\"/home/sergey_kornienko/Programming/Big Projects/.\"  -fsanitize=address,undefined -Wall -Wextra -pedantic -Werror -Wno-self-assign-overloaded -Wno-missing-braces -o CMakeFiles/zip_public_test.dir/zip_public_test.cpp.o -c \"/home/sergey_kornienko/Programming/Big Projects/itertools/zip/zip_public_test.cpp\"",
+  "file": "/home/sergey_kornienko/Programming/Big Projects/itertools/zip/zip_public_test.cpp"
+},
+{
+  "directory": "/home/sergey_kornienko/Programming/Big Projects/build/lru",
+  "command": "/usr/bin/c++  -I\"/home/sergey_kornienko/Programming/Big Projects/.\"  -fsanitize=address,undefined -Wall -Wextra -pedantic -Werror -Wno-self-assign-overloaded -Wno-missing-braces -std=gnu++20 -o CMakeFiles/lru_public_test.dir/lru_public_test.cpp.o -c \"/home/sergey_kornienko/Programming/Big Projects/lru/lru_public_test.cpp\"",
+  "file": "/home/sergey_kornienko/Programming/Big Projects/lru/lru_public_test.cpp"
+},
+{
+  "directory": "/home/sergey_kornienko/Programming/Big Projects/build/matrix",
+  "command": "/usr/bin/c++  -I\"/home/sergey_kornienko/Programming/Big Projects/.\"  -fsanitize=address,undefined -Wall -Wextra -pedantic -Werror -Wno-self-assign-overloaded -Wno-missing-braces -o CMakeFiles/matrix_public_test.dir/matrix_public_test.cpp.o -c \"/home/sergey_kornienko/Programming/Big Projects/matrix/matrix_public_test.cpp\"",
+  "file": "/home/sergey_kornienko/Programming/Big Projects/matrix/matrix_public_test.cpp"
+},
+{
+  "directory": "/home/sergey_kornienko/Programming/Big Projects/build/move_iterator",
+  "command": "/usr/bin/c++  -I\"/home/sergey_kornienko/Programming/Big Projects/.\"  -fsanitize=address,undefined -Wall -Wextra -pedantic -Werror -Wno-self-assign-overloaded -Wno-missing-braces -o CMakeFiles/move_iterator_public_test.dir/move_iterator_public_test.cpp.o -c \"/home/sergey_kornienko/Programming/Big Projects/move_iterator/move_iterator_public_test.cpp\"",
+  "file": "/home/sergey_kornienko/Programming/Big Projects/move_iterator/move_iterator_public_test.cpp"
+},
+{
+  "directory": "/home/sergey_kornienko/Programming/Big Projects/build/optional",
+  "command": "/usr/bin/c++  -I\"/home/sergey_kornienko/Programming/Big Projects/.\"  -fsanitize=address,undefined -Wall -Wextra -pedantic -Werror -Wno-self-assign-overloaded -Wno-missing-braces -o CMakeFiles/optional_public_test.dir/optional_public_test.cpp.o -c \"/home/sergey_kornienko/Programming/Big Projects/optional/optional_public_test.cpp\"",
+  "file": "/home/sergey_kornienko/Programming/Big Projects/optional/optional_public_test.cpp"
+},
+{
+  "directory": "/home/sergey_kornienko/Programming/Big Projects/build/rational",
+  "command": "/usr/bin/c++  -I\"/home/sergey_kornienko/Programming/Big Projects/.\"  -fsanitize=address,undefined -Wall -Wextra -pedantic -Werror -Wno-self-assign-overloaded -Wno-missing-braces -o CMakeFiles/rational_public_test.dir/rational.cpp.o -c \"/home/sergey_kornienko/Programming/Big Projects/rational/rational.cpp\"",
+  "file": "/home/sergey_kornienko/Programming/Big Projects/rational/rational.cpp"
+},
+{
+  "directory": "/home/sergey_kornienko/Programming/Big Projects/build/rational",
+  "command": "/usr/bin/c++  -I\"/home/sergey_kornienko/Programming/Big Projects/.\"  -fsanitize=address,undefined -Wall -Wextra -pedantic -Werror -Wno-self-assign-overloaded -Wno-missing-braces -o CMakeFiles/rational_public_test.dir/rational_public_test.cpp.o -c \"/home/sergey_kornienko/Programming/Big Projects/rational/rational_public_test.cpp\"",
+  "file": "/home/sergey_kornienko/Programming/Big Projects/rational/rational_public_test.cpp"
+},
+{
+  "directory": "/home/sergey_kornienko/Programming/Big Projects/build/reverse_iterator",
+  "command": "/usr/bin/c++  -I\"/home/sergey_kornienko/Programming/Big Projects/.\"  -fsanitize=address,undefined -Wall -Wextra -pedantic -Werror -Wno-self-assign-overloaded -Wno-missing-braces -o CMakeFiles/reverse_iterator_public_test.dir/reverse_iterator_public_test.cpp.o -c \"/home/sergey_kornienko/Programming/Big Projects/reverse_iterator/reverse_iterator_public_test.cpp\"",
+  "file": "/home/sergey_kornienko/Programming/Big Projects/reverse_iterator/reverse_iterator_public_test.cpp"
+},
+{
+  "directory": "/home/sergey_kornienko/Programming/Big Projects/build/shared_ptr",
+  "command": "/usr/bin/c++  -I\"/home/sergey_kornienko/Programming/Big Projects/.\"  -fsanitize=address,undefined -Wall -Wextra -pedantic -Werror -Wno-self-assign-overloaded -Wno-missing-braces -o CMakeFiles/shared_ptr_public_test.dir/shared_ptr_public_test.cpp.o -c \"/home/sergey_kornienko/Programming/Big Projects/shared_ptr/shared_ptr_public_test.cpp\"",
+  "file": "/home/sergey_kornienko/Programming/Big Projects/shared_ptr/shared_ptr_public_test.cpp"
+},
+{
+  "directory": "/home/sergey_kornienko/Programming/Big Projects/build/stack",
+  "command": "/usr/bin/c++  -I\"/home/sergey_kornienko/Programming/Big Projects/.\"  -fsanitize=address,undefined -Wall -Wextra -pedantic -Werror -Wno-self-assign-overloaded -Wno-missing-braces -o CMakeFiles/stack_public_test.dir/stack_public_test.cpp.o -c \"/home/sergey_kornienko/Programming/Big Projects/stack/stack_public_test.cpp\"",
+  "file": "/home/sergey_kornienko/Programming/Big Projects/stack/stack_public_test.cpp"
+},
+{
+  "directory": "/home/sergey_kornienko/Programming/Big Projects/build/string",
+  "command": "/usr/bin/c++  -I\"/home/sergey_kornienko/Programming/Big Projects/.\"  -fsanitize=address,undefined -Wall -Wextra -pedantic -Werror -Wno-self-assign-overloaded -Wno-missing-braces -o CMakeFiles/string_public_test.dir/cppstring.cpp.o -c \"/home/sergey_kornienko/Programming/Big Projects/string/cppstring.cpp\"",
+  "file": "/home/sergey_kornienko/Programming/Big Projects/string/cppstring.cpp"
+},
+{
+  "directory": "/home/sergey_kornienko/Programming/Big Projects/build/string",
+  "command": "/usr/bin/c++  -I\"/home/sergey_kornienko/Programming/Big Projects/.\"  -fsanitize=address,undefined -Wall -Wextra -pedantic -Werror -Wno-self-assign-overloaded -Wno-missing-braces -o CMakeFiles/string_public_test.dir/string_public_test.cpp.o -c \"/home/sergey_kornienko/Programming/Big Projects/string/string_public_test.cpp\"",
+  "file": "/home/sergey_kornienko/Programming/Big Projects/string/string_public_test.cpp"
+},
+{
+  "directory": "/home/sergey_kornienko/Programming/Big Projects/build/string_view",
+  "command": "/usr/bin/c++  -I\"/home/sergey_kornienko/Programming/Big Projects/.\"  -fsanitize=address,undefined -Wall -Wextra -pedantic -Werror -Wno-self-assign-overloaded -Wno-missing-braces -o CMakeFiles/string_view_public_test.dir/string_view.cpp.o -c \"/home/sergey_kornienko/Programming/Big Projects/string_view/string_view.cpp\"",
+  "file": "/home/sergey_kornienko/Programming/Big Projects/string_view/string_view.cpp"
+},
+{
+  "directory": "/home/sergey_kornienko/Programming/Big Projects/build/string_view",
+  "command": "/usr/bin/c++  -I\"/home/sergey_kornienko/Programming/Big Projects/.\"  -fsanitize=address,undefined -Wall -Wextra -pedantic -Werror -Wno-self-assign-overloaded -Wno-missing-braces -o CMakeFiles/string_view_public_test.dir/string_view_public_test.cpp.o -c \"/home/sergey_kornienko/Programming/Big Projects/string_view/string_view_public_test.cpp\"",
+  "file": "/home/sergey_kornienko/Programming/Big Projects/string_view/string_view_public_test.cpp"
+},
+{
+  "directory": "/home/sergey_kornienko/Programming/Big Projects/build/sum",
+  "command": "/usr/bin/c++  -I\"/home/sergey_kornienko/Programming/Big Projects/.\"  -fsanitize=address,undefined -Wall -Wextra -pedantic -Werror -Wno-self-assign-overloaded -Wno-missing-braces -o CMakeFiles/sum_public_test.dir/sum.cpp.o -c \"/home/sergey_kornienko/Programming/Big Projects/sum/sum.cpp\"",
+  "file": "/home/sergey_kornienko/Programming/Big Projects/sum/sum.cpp"
+},
+{
+  "directory": "/home/sergey_kornienko/Programming/Big Projects/build/sum",
+  "command": "/usr/bin/c++  -I\"/home/sergey_kornienko/Programming/Big Projects/.\"  -fsanitize=address,undefined -Wall -Wextra -pedantic -Werror -Wno-self-assign-overloaded -Wno-missing-braces -o CMakeFiles/sum_public_test.dir/sum_public_test.cpp.o -c \"/home/sergey_kornienko/Programming/Big Projects/sum/sum_public_test.cpp\"",
+  "file": "/home/sergey_kornienko/Programming/Big Projects/sum/sum_public_test.cpp"
+},
+{
+  "directory": "/home/sergey_kornienko/Programming/Big Projects/build/type_vector",
+  "command": "/usr/bin/c++  -I\"/home/sergey_kornienko/Programming/Big Projects/.\"  -fsanitize=address,undefined -Wall -Wextra -pedantic -Werror -Wno-self-assign-overloaded -Wno-missing-braces -o CMakeFiles/type_vector_public_test.dir/type_vector_public_test.cpp.o -c \"/home/sergey_kornienko/Programming/Big Projects/type_vector/type_vector_public_test.cpp\"",
+  "file": "/home/sergey_kornienko/Programming/Big Projects/type_vector/type_vector_public_test.cpp"
+},
+{
+  "directory": "/home/sergey_kornienko/Programming/Big Projects/build/unique_ptr",
+  "command": "/usr/bin/c++  -I\"/home/sergey_kornienko/Programming/Big Projects/.\"  -fsanitize=address,undefined -Wall -Wextra -pedantic -Werror -Wno-self-assign-overloaded -Wno-missing-braces -o CMakeFiles/unique_ptr_public_test.dir/unique_ptr_public_test.cpp.o -c \"/home/sergey_kornienko/Programming/Big Projects/unique_ptr/unique_ptr_public_test.cpp\"",
+  "file": "/home/sergey_kornienko/Programming/Big Projects/unique_ptr/unique_ptr_public_test.cpp"
+},
+{
+  "directory": "/home/sergey_kornienko/Programming/Big Projects/build/unordered_set",
+  "command": "/usr/bin/c++  -I\"/home/sergey_kornienko/Programming/Big Projects/.\"  -fsanitize=address,undefined -Wall -Wextra -pedantic -Werror -Wno-self-assign-overloaded -Wno-missing-braces -o CMakeFiles/unordered_set_public_test.dir/unordered_set_public_test.cpp.o -c \"/home/sergey_kornienko/Programming/Big Projects/unordered_set/unordered_set_public_test.cpp\"",
+  "file": "/home/sergey_kornienko/Programming/Big Projects/unordered_set/unordered_set_public_test.cpp"
+},
+{
+  "directory": "/home/sergey_kornienko/Programming/Big Projects/build/vector",
+  "command": "/usr/bin/c++  -I\"/home/sergey_kornienko/Programming/Big Projects/.\"  -fsanitize=address,undefined -Wall -Wextra -pedantic -Werror -Wno-self-assign-overloaded -Wno-missing-braces -o CMakeFiles/vector_public_test.dir/vector_public_test.cpp.o -c \"/home/sergey_kornienko/Programming/Big Projects/vector/vector_public_test.cpp\"",
+  "file": "/home/sergey_kornienko/Programming/Big Projects/vector/vector_public_test.cpp"
+}
+]

@@ -1,0 +1,1 @@
+/usr/bin/c++  -fsanitize=address,undefined -Wall -Wextra -pedantic -Werror -Wno-self-assign-overloaded -Wno-missing-braces CMakeFiles/tokenize_public_test.dir/tokenize.cpp.o CMakeFiles/tokenize_public_test.dir/tokenize_public_test.cpp.o -o ../../tokenize_public_test 

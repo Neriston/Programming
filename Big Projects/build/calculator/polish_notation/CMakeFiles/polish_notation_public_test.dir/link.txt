@@ -1,0 +1,1 @@
+/usr/bin/c++  -fsanitize=address,undefined -Wall -Wextra -pedantic -Werror -Wno-self-assign-overloaded -Wno-missing-braces CMakeFiles/polish_notation_public_test.dir/polish_notation.cpp.o CMakeFiles/polish_notation_public_test.dir/polish_notation_public_test.cpp.o CMakeFiles/polish_notation_public_test.dir/__/tokenize/tokenize.cpp.o -o ../../polish_notation_public_test 

@@ -1,0 +1,1 @@
+/usr/bin/c++  -fsanitize=address,undefined -Wall -Wextra -pedantic -Werror -Wno-self-assign-overloaded -Wno-missing-braces CMakeFiles/frozen_set_public_test.dir/frozen_set_public_test.cpp.o -o ../frozen_set_public_test 

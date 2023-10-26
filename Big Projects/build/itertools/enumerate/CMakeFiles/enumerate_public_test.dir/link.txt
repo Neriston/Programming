@@ -1,0 +1,1 @@
+/usr/bin/c++  -fsanitize=address,undefined -Wall -Wextra -pedantic -Werror -Wno-self-assign-overloaded -Wno-missing-braces CMakeFiles/enumerate_public_test.dir/enumerate_public_test.cpp.o -o ../../enumerate_public_test 
