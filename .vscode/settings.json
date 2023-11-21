@@ -68,5 +68,6 @@
     "cinttypes": "cpp",
     "variant": "cpp"
   },
-  "cmake.sourceDirectory": "/home/sergey_kornienko/Programming/Big Projects"
+  "cmake.sourceDirectory": "/home/sergey_kornienko/Programming/Big Projects",
+  "cmake.configureOnOpen": false
 }
