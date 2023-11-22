@@ -34,11 +34,28 @@ std::istream& operator>>(std::istream& is, std::vector<int>& vector) {
   return is;
 }
 
+const std::vector<int>& ConvertZFuncToPrefFunc(std::vector<int>& z_func_val, std::vector<int>& pref_func_val) {
+  z_func_val[0] = 0;
+  for (int i = 0; i < static_cast<int>(z_func_val.size()); ++i) {
+    for (int delta = z_func_val[i] - 1; delta >= 0; --delta) {
+      if (pref_func_val[i + delta] > 0) {
+        break;
+      }
+      pref_func_val[i + delta] = delta + 1;
+    }
+  }
+  return pref_func_val;
+}
+
 int main() {
   int n = 0;
   std::cin >> n;
+  if (n == 0) {
+    return 0;
+  }
   std::vector<int> pref_func_val(n, 0);
-  std::cin >> pref_func_val;
-  std::cout << StringFromPrefFunc(pref_func_val);
+  std::vector<int> z_func_val(n, 0);
+  std::cin >> z_func_val;
+  std::cout << StringFromPrefFunc(ConvertZFuncToPrefFunc(z_func_val, pref_func_val));
   return 0;
 }
