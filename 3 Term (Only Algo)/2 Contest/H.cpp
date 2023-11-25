@@ -19,7 +19,7 @@ int CalcPrefFunc(const std::string& pattern, const std::string& string) {
   int k = 0;
   int diff = cast_len_string - cast_len_pattern;
   int start = diff > 0 ? diff : 0;
-  for (int i = diff; i < cast_len_string; ++i) {
+  for (int i = start; i < cast_len_string; ++i) {
     k = last_pref_func;
     while (k > 0 && (k == static_cast<int>(pattern.size()) || string[i] != pattern[k])) {
       k = pref_func[k - 1];
