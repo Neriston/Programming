@@ -53,3 +53,6 @@ int main() {
   MirrorString(z_func, n);
   return 0;
 }
+
+//  if str is abyxcd, reverse str is dcxyba, we choose ab|ba/cd, we need to check ZFunc(2) in rev str >= then size(ab), because new rev str
+// is dcabba (was dcxyba), but ab is beginning of abyxcd.
