@@ -30,8 +30,7 @@ void MirrorString(const std::vector<int>& z_func, const int& n) {
   int start_pos = n % 2;
   while (start_pos < n - 1) {
     int diff = quantity_before_mirror - start_pos;
-    if (z_func[n + start_pos] >= 2 * diff) {  // Also we can change 2 * diff to 1 * diff, because size of the common block need to
-    // be more diff (and it equals 2 * diff)
+    if (z_func[n + start_pos] >= diff) {
       std::cout << quantity_before_mirror << ' ';
     }
     ++quantity_before_mirror;
