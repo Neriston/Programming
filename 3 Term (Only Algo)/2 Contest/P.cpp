@@ -93,6 +93,7 @@ void SuffixAutomaton::AddSymbol(const char& symbol) {
   size_t ans = new_node->len + last_diff_substr_ - new_node->suf_ref->len;
   //  example: aabab, we added 'b', so new diff_substr is 8 (diff_substr of aaba) + 5 (len of aabab), but we need to minus
   //  common diff_substr, so we look of aabab(new) -> abab(new) -> bab(new) -> ab (but ab is reference to other node), so substr ab and b we dont need to choose (minus 2).
+  // we opened 3 new routes to final node.
   std::cout << ans << '\n';
   last_diff_substr_ = ans;
   last_ = new_node;
